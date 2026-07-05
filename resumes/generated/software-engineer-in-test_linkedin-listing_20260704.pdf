@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1497 >>
+stream
+BT /F1 12 Tf 72 760 Td (Software Engineer in Test) Tj ET
+BT /F1 12 Tf 72 746 Td (LinkedIn Listing) Tj ET
+BT /F1 12 Tf 72 732 Td (Summary) Tj ET
+BT /F1 12 Tf 72 718 Td (Experienced QA Lead specializing in internal audit and software testing across banking and telecom domains.) Tj ET
+BT /F1 12 Tf 72 704 Td (Skills) Tj ET
+BT /F1 12 Tf 72 690 Td (Internal Audit, Functional Testing, Regression Testing, Manual Testing \(GUI\), System Testing, Agile Scrum Methodology, HP ALM, Jira, Putty, WinSCP, Oracle SQL Developer, Remedy, Postman, Rest API, Python, SQL, BDD, Extent Report, TestNG Report, PowerBI, Git, Bitbucket) Tj ET
+BT /F1 12 Tf 72 676 Td (Experience) Tj ET
+BT /F1 12 Tf 72 662 Td (- Lead at Bajaj Finance: Conducted end-to-end internal audits for Marketing department processes., Managed stakeholder communication and resolution of audit findings., Reported issues post new website releases, proactively discussing with POs for timely fixes.
+- Sr QA Analyst at SitusAMC: Performed functional testing for loan and mortgage products., Executed test cases, reported defects, and proactively sought workarounds.
+- QA Consultant at Genpact Headstrong: Upgraded OVP servers from Windows Server 2008 to 2016., Conducted functional testing for new servers pre and post migration.
+- Test Analyst at Infosys Ltd.: Worked on System Integration Testing, Regression Testing using HP ALM., Managed test cases, traceability matrices, and defect management.) Tj ET
+BT /F1 12 Tf 72 648 Td (Projects) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001790 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1860
+%%EOF

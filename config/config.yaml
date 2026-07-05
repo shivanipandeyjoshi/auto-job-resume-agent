@@ -1,0 +1,77 @@
+project:
+  name: local-job-resume-agent
+  root_dir: .
+  resume_template: templates/master_resume.docx
+  master_resume: /Users/rajeshwarjoshi/Downloads/Shivani Pandey 10 yr experience.docx
+  generated_dir: resumes/generated
+  jobs_dir: jobs/raw
+  logs_dir: logs
+  csv_dir: csv
+  prompts_dir: prompts
+
+logging:
+  level: INFO
+  rotation: 10 MB
+  retention: 30 days
+
+agents:
+  discover_jobs:
+    enabled: true
+    portals:
+      - LinkedIn
+      - Naukri
+      - Wellfound
+    keywords:
+      - QA Engineer
+      - Software Test Engineer
+      - Test Analyst
+      - Manual Tester
+      - Functional Tester
+      - Selenium Tester
+      - Banking QA
+      - Telecom QA
+      - Java Selenium
+      - Python QA
+    locations:
+      - Remote
+      - India
+      - Bengaluru
+      - Hyderabad
+      - Pune
+      - Mumbai
+      - Gurgaon
+      - Noida
+    job_types:
+      - Remote
+      - Hybrid
+      - Full-time
+    limit: 8
+  ranking:
+    threshold: 0.35
+  optimize_resume:
+    model: qwen2.5-coder:7b
+    temperature: 0.2
+  validate_resume:
+    max_pages: 2
+  generate_resume:
+    file_suffix: "%Y%m%d"
+
+browser:
+  headless: true
+  timeout: 30000
+  retries: 3
+
+ollama:
+  base_url: http://127.0.0.1:11434
+  timeout: 60000
+  retries: 2
+
+resume:
+  max_pages: 2
+  ats_keywords:
+    - Python
+    - LangChain
+    - LangGraph
+    - API
+    - SQL
+    - Docker
