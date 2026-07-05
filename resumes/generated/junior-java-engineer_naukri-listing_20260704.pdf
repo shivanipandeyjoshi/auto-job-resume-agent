@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1693 >>
+stream
+BT /F1 12 Tf 72 760 Td (Junior Java Engineer) Tj ET
+BT /F1 12 Tf 72 746 Td (Naukri Listing) Tj ET
+BT /F1 12 Tf 72 732 Td (Summary) Tj ET
+BT /F1 12 Tf 72 718 Td (Experienced QA Lead specializing in Internal Audit and Software Testing across banking and telecom domains.) Tj ET
+BT /F1 12 Tf 72 704 Td (Skills) Tj ET
+BT /F1 12 Tf 72 690 Td (Internal Audit, Software Testing, Functional Testing, Regression Testing, Manual Testing, System Testing, Agile Scrum Methodology, HP ALM, HP QC, Putty, WinSCP, Oracle SQL Developer, Remedy, Jira, Siebel, Chorus, Telflow, BRM, WBI, Oracle EBS, Postman, Rest API, BDD, Hybrid Framework, Extent Report, TestNG Report, PowerBI, GIT, Bitbucket) Tj ET
+BT /F1 12 Tf 72 676 Td (Experience) Tj ET
+BT /F1 12 Tf 72 662 Td (- Lead at Bajaj Finance: Conducting internal audit end-to-end for various teams in the Marketing department, ensuring compliance with standard processes., Stakeholder management and progress tracking on incidents and new releases for BFL website., Proactively discussing with POs to incorporate latest changes from a customer perspective.
+- Sr QA Analyst at SitusAMC, HPFC: Performing functional testing for loan and mortgage products., Executing test cases and reporting defects to ensure system reliability.
+- QA Consultant at Genpact Headstrong, BCG: Upgrading and migrating existing servers to the latest state-of-the-art systems., Performing functional testing on new servers before migration.
+- Test Analyst at Infosys Ltd.: Working as a Test Engineer for various projects, including System Integration Testing and Regression Testing., Managing defects and conducting daily health checks.) Tj ET
+BT /F1 12 Tf 72 648 Td (Projects) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001986 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2056
+%%EOF
