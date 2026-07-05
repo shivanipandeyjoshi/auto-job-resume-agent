@@ -219,6 +219,7 @@ class DiscoverJobsAgent:
                             "salary": "",
                             "posting_age": "",
                             "source": "Naukri",
+                            
                         })
                 return results
         except Exception as exc:  # pragma: no cover - best effort scraper
